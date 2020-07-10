@@ -1,1 +1,1 @@
-angular-webpage
+When cloning the repo you need to run `npm install` in the root directory before running `ng serve --open` to install the dependencies needed by the project
